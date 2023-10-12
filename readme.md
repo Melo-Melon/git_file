@@ -1,4 +1,4 @@
-# Perez's clan secret recipes
+# Perez's clan mysterious recipes
 
 Set of recipes as given by my grandma
 
@@ -8,5 +8,4 @@ Set of recipes as given by my grandma
 
 - sauces (TODO)
 - spreads (TODO)
-
 
